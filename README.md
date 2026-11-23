@@ -1,6 +1,7 @@
 # Deep Learning Project
 
 Modular deep learning project for MNIST experiments.
+Colab Used : https://colab.research.google.com/drive/1pwQoCA69_j3hAKirBkUCu1DokiiD8WWQ?usp=sharing
 
 ## Structure
 
